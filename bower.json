@@ -1,0 +1,25 @@
+{
+  "name": "shop vuejs",
+  "description": "shop with vuejs",
+  "main": "webpack.config.js",
+  "authors": [
+    "andrew.ejov@gmail.com"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "vue.js"
+  ],
+  "homepage": "https://github.com/andrew-iojikoff/jquery-plugin-boilerplate",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0"
+  }
+}
